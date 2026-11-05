@@ -1,7 +1,7 @@
 # MY-FIRST-WEBSITE
 My first website built using HTML on Day 1 of my web development journey. Practised HTML basics,headings,paragraphs,links,images,and webpage structure.A simple first step into web development!
 <br>
-# 🌐 My First Website – Day 1 of HTML
+# My First Website – Day 1 of HTML
 
 This is my first website, created on Day 1 of my web development journey using HTML.
 
